@@ -1,4 +1,4 @@
-# Social Network API
+# SocialNetAPI
 
 ## Description
 
@@ -15,6 +15,7 @@ Included in this install are the following dependencies:
 - express
 - mongoose
 - dayjs
+- validator
 
 ## Usage
 
@@ -24,7 +25,7 @@ To run the server, use the following command:
 
 ## Contribution
 
-This is currently an individual project, but pull requests are welcome. Submit any pull request you desire and after a review your changes may go into this Social Network API.
+This is currently an open project.
 
 ## Test Information
 
